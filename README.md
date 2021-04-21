@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samirhssn11
+- 👋 Hi, I’m Samir Husain
 - 👀 I’m interested in Full Stack Development & Data Science
 - 🌱 I’m currently learning Front-End Development & Data Science
 - 💞️ I’m looking to collaborate on Web Development
